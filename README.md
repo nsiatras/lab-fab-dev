@@ -156,7 +156,16 @@ Support from our sponsors helps make this project possible.<br>
     </td>
     <tr>
     <td>2-Axis High Resolution Motion Stage</td>
-    <td>XY motion stage with micron positioning accuracy.</td>
+    <td>50 mm -XY motion stage with micron positioning accuracy.</td>
+    <td align="center">
+      <a href="assets/building_blocks_accessories/2-axis-highres-stage/README.md"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+    </td>
+    <td align="center">
+      <a href="..."><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" height="20"></a>
+    </td>
+    <tr>
+    <td>2-Axis High Resolution Motion Stage</td>
+    <td>25 mm - XY motion stage with micron positioning accuracy.</td>
     <td align="center">
       <a href="assets/building_blocks_accessories/2-axis-highres-stage/README.md"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>

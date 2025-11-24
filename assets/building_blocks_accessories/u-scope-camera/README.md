@@ -6,7 +6,7 @@
 
 - Assembly Drawings: [LINK](https://drive.google.com/drive/folders/1kbGp0VOrERLThJ3h-9TmD0nCoPHzohEO?usp=drive_link)
 
-- Assembly Instructions: [LINK](https://drive.google.com/drive/folders/1kbGp0VOrERLThJ3h-9TmD0nCoPHzohEO?usp=drive_link) 
+- Assembly Instructions: [LINK](https://drive.google.com/drive/folders/1kbGp0VOrERLThJ3h-9TmD0nCoPHzohEO?usp=drive_link) - NOT READY YET 
 
 - Parts for 3D Printing: [LINK](https://drive.google.com/drive/folders/1kbGp0VOrERLThJ3h-9TmD0nCoPHzohEO?usp=drive_link)
 
