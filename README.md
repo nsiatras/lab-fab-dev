@@ -284,7 +284,7 @@ Support from our sponsors helps make this project possible.<br>
       <a href="..."><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" height="20"></a>
     </td>
     <tr>
-    <td>Scanning Upright Chemical U-Scope </td>
+    <td>Scanning Upright Molecular U-Scope </td>
     <td>3-axis Cartesian motion + 2-axis high res stage + motorized USB u-scope camera on kinematic coupling + Raman</td>
     <td align="center">
       <a href="assets/characterization-instrumentation/multi-tool-rheometer/README.md"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
