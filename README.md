@@ -114,7 +114,7 @@ Support from our partners helps make this project possible.<br>
     <td> 🔌 superBoards</td>
     <td>ESP 32 PCB boards for networked modular instrumentation control.</td>
     <td align="center">
-      <a href="https://drive.google.com/drive/folders/1JcD_o782d0RjYwqp6IOT23hmUzfqrXUr?usp=sharing"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/drive/folders/1JcD_o782d0RjYwqp6IOT23hmUzfqrXUr?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -126,7 +126,7 @@ Support from our partners helps make this project possible.<br>
     <td> 💻 superNodes </td>
     <td>Visual programming canvas for instrumentation control and orchetration using nodes.</td>
     <td align="center">
-      <a href="assets/building_blocks_accessories/superNodes/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="..."><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -139,7 +139,7 @@ Support from our partners helps make this project possible.<br>
     <td>Enclosures</td>
     <td>Sturdy sheet metal enclosures at variable sizes for instrumentation.</td>
     <td align="center">
-      <a href="assets/building_blocks_accessories/enclosures/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/drive/folders/17UJ4I3CEe4JMZR2c-dJ6OrnTzk4Yyab-?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -152,7 +152,7 @@ Support from our partners helps make this project possible.<br>
     <td>Kinematic Couplings</td>
     <td>Tool integration mechanism for reproducible and precise mounting of printing tools & instruments without screws and integrated load cell-based zeroing mechanism.</td>
     <td align="center">
-      <a href="assets/building_blocks_accessories/kinematic-couplings/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="..."><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -165,7 +165,7 @@ Support from our partners helps make this project possible.<br>
     <td>USB U-Scope Camera</td>
     <td>Customized and integration-ready USB u-scope camera with kinematic couplings and motorized zoom/focus.</td>
     <td align="center">
-      <a href="assets/building_blocks_accessories/u-scope-camera/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/drive/folders/1kbGp0VOrERLThJ3h-9TmD0nCoPHzohEO?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -178,7 +178,7 @@ Support from our partners helps make this project possible.<br>
     <td>3-Axis Cartesian Motion System</td>
     <td>XYZ motion system with upgraded open builds-style leadscrew driven axes.</td>
     <td align="center">
-      <a href="assets/building_blocks_accessories/3-axis-cartesian-system/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/drive/folders/17OJ1H-M8vHgABIGA7ooXtCAyZR9bY7lD?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -191,7 +191,7 @@ Support from our partners helps make this project possible.<br>
     <td>2-Axis High Resolution Motion Stage</td>
     <td>50 mm -XY motion stage with micron positioning accuracy.</td>
     <td align="center">
-      <a href="assets/building_blocks_accessories/2-axis-highres-stage/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/drive/folders/1P9JbpCmvGTudBLSs0YrZ8bzVMgzwHQVR?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -204,7 +204,7 @@ Support from our partners helps make this project possible.<br>
     <td>2-Axis High Resolution Motion Stage</td>
     <td>25 mm - XY motion stage with micron positioning accuracy.</td>
     <td align="center">
-      <a href="assets/building_blocks_accessories/2-axis-highres-stage/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/drive/folders/19FlChSYLIGv8P1A46zadVUB6sWlLTm-L?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -217,7 +217,7 @@ Support from our partners helps make this project possible.<br>
     <td>2-Axis nm Piezo Motion Stage</td>
     <td>XY motion stage with nano positioning accuracy.</td>
     <td align="center">
-      <a href="assets/building_blocks_accessories/2-axis-highres-stage/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/drive/folders/1cuUi-XieQL6U28TW3rn8J2NgUA8NPbxA?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -237,13 +237,13 @@ Support from our partners helps make this project possible.<br>
     <th width="0%">Description</th>
     <th width="10%">View</th>
     <th width="10%">View</th>
-    <th width="10%">View</th>
+    <th width="10%">Coming Soon</th>
   </tr>
   <tr>
     <td>Automated Powder Dispenser</td>
     <td>Automated powder dispensing based on the Archimedes principle.</td>
     <td align="center">
-      <a href="assets/synthesis-instrumentation/superPowder/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/drive/folders/1NxMb5GZngzrFfSzFjc_bbhfiGpZ7EZ4r?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -264,14 +264,14 @@ Support from our partners helps make this project possible.<br>
     <th width="0%">Description</th>
     <th width="10%">View</th>
     <th width="10%">View</th>
-    <th width="10%">View</th>
+    <th width="10%">Coming Soon</th>
   </tr>
   <tr>
     <tr>
     <td>Hybrid Manufacturing </td>
     <td>Router with automatic tool-change for cutting & 3d printing.</td>
     <td align="center">
-      <a href="assets/processing - instrumentation/hybrid-cutter-printer-w-toolchange/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/drive/folders/1IkTfSbhdzDhk5rUMN3vMtKTG9tQ1EU_P?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -283,7 +283,7 @@ Support from our partners helps make this project possible.<br>
     <td>Direct Ink Writing</td>
     <td>Pneumatic extrusion of soft materials.</td>
     <td align="center">
-      <a href="assets/processing - instrumentation/..."><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/drive/folders/1wg1JOTELJtnCAdh4YsilO2ff18yqm5-c?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -296,7 +296,7 @@ Support from our partners helps make this project possible.<br>
     <td>FDM Printer</td>
     <td>Fused filament fabrication system with online metrology.</td>
     <td align="center">
-      <a href="assets/processing - instrumentation/FDM-online-metrology/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/drive/folders/174Hv-n6-VdfiQ5vrCtNUJMMXhvrRIZsq?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -316,13 +316,13 @@ Support from our partners helps make this project possible.<br>
     <th width="0%">Description</th>
     <th width="10%">View</th>
     <th width="10%">View</th>
-    <th width="10%">View</th>
+    <th width="10%">Coming Soon</th>
   </tr>
   <tr>
     <td>Micro-Extrusion Rheometer</td>
     <td>Capillary rheometry with online extrudate swell monitoring and lab scale for thermo-responsive soft materials.</td>
     <td align="center">
-      <a href="assets/characterization-instrumentation/micro-extrusion-rheometer/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/drive/folders/1pCJGie3vI4COuHcLIHNkMLs4IT7jafly?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -334,7 +334,7 @@ Support from our partners helps make this project possible.<br>
     <td>Multi-Tool Rheometer</td>
     <td>Rheometry platform with inter-changeable end effectors for thermo-responsive soft materials .</td>
     <td align="center">
-      <a href="assets/characterization-instrumentation/multi-tool-rheometer/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/drive/folders/1G9Ots9HjIJyoJkTjtAA4q1o4dTKiaXfq?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -346,7 +346,7 @@ Support from our partners helps make this project possible.<br>
     <td>Scanning Upright Optical U-Scope </td>
     <td>3-axis Cartesian motion + 2-axis high res stage + motorized USB u-scope camera on kinematic coupling (see<b> <i>Building Blocks</i>)</b></td>
     <td align="center">
-      <a href="assets/characterization-instrumentation/multi-tool-rheometer/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="..."><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
@@ -358,7 +358,7 @@ Support from our partners helps make this project possible.<br>
     <td>Scanning Upright Molecular U-Scope </td>
     <td>3-axis Cartesian motion + 2-axis high res stage + motorized USB u-scope camera on kinematic coupling + Raman (see<b> <i>Building Blocks</i>)</b></td>
     <td align="center">
-      <a href="assets/characterization-instrumentation/multi-tool-rheometer/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
+      <a href="https://sites.google.com/superlabs.eu/asl/open-tools/the-lab-fab-project"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
       <a href="..."><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
