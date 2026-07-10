@@ -246,7 +246,7 @@ Support from our partners helps make this project possible.<br>
       <a href="assets/synthesis-instrumentation/superPowder/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
-      <a href="..."><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
+      <a href="https://drive.google.com/drive/folders/1NxMb5GZngzrFfSzFjc_bbhfiGpZ7EZ4r?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
     </td>
         <td align="center">
       <a href="..."><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" height="20"></a>
@@ -274,7 +274,7 @@ Support from our partners helps make this project possible.<br>
       <a href="assets/processing - instrumentation/hybrid-cutter-printer-w-toolchange/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
-      <a href="..."><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
+      <a href="https://drive.google.com/drive/folders/1IkTfSbhdzDhk5rUMN3vMtKTG9tQ1EU_P?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
     </td>
         <td align="center">
       <a href="..."><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" height="20"></a>
@@ -286,7 +286,7 @@ Support from our partners helps make this project possible.<br>
       <a href="assets/processing - instrumentation/..."><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
-      <a href="..."><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
+      <a href="https://drive.google.com/drive/folders/1wg1JOTELJtnCAdh4YsilO2ff18yqm5-c?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
     </td>
     </td>
         <td align="center">
@@ -299,7 +299,7 @@ Support from our partners helps make this project possible.<br>
       <a href="assets/processing - instrumentation/FDM-online-metrology/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
-      <a href="..."><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
+      <a href="https://drive.google.com/drive/folders/174Hv-n6-VdfiQ5vrCtNUJMMXhvrRIZsq?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
     </td>
     </td>
         <td align="center">
@@ -325,7 +325,7 @@ Support from our partners helps make this project possible.<br>
       <a href="assets/characterization-instrumentation/micro-extrusion-rheometer/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
-      <a href="..."><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
+      <a href="https://drive.google.com/drive/folders/1pCJGie3vI4COuHcLIHNkMLs4IT7jafly?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
     </td>
         <td align="center">
       <a href="..."><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" height="20"></a>
@@ -337,14 +337,14 @@ Support from our partners helps make this project possible.<br>
       <a href="assets/characterization-instrumentation/multi-tool-rheometer/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
     <td align="center">
-      <a href="..."><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
+      <a href="https://drive.google.com/drive/folders/1G9Ots9HjIJyoJkTjtAA4q1o4dTKiaXfq?usp=sharing"><img src="https://img.shields.io/badge/Drive-View-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20"></a>
     </td>
         <td align="center">
       <a href="..."><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" height="20"></a>
     </td>
     <tr>
     <td>Scanning Upright Optical U-Scope </td>
-    <td>3-axis Cartesian motion + 2-axis high res stage + motorized USB u-scope camera on kinematic coupling</td>
+    <td>3-axis Cartesian motion + 2-axis high res stage + motorized USB u-scope camera on kinematic coupling (see<b> <i>Building Blocks</i>)</b></td>
     <td align="center">
       <a href="assets/characterization-instrumentation/multi-tool-rheometer/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
@@ -356,7 +356,7 @@ Support from our partners helps make this project possible.<br>
     </td>
     <tr>
     <td>Scanning Upright Molecular U-Scope </td>
-    <td>3-axis Cartesian motion + 2-axis high res stage + motorized USB u-scope camera on kinematic coupling + Raman</td>
+    <td>3-axis Cartesian motion + 2-axis high res stage + motorized USB u-scope camera on kinematic coupling + Raman (see<b> <i>Building Blocks</i>)</b></td>
     <td align="center">
       <a href="assets/characterization-instrumentation/multi-tool-rheometer/README.md"><img src="https://img.shields.io/badge/Website-View-blue" height="20"></a>
     </td>
