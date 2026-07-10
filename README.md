@@ -9,7 +9,7 @@
 
 [![Visit ASL @ Superlabs](https://img.shields.io/badge/Visit-WEBSITE-blueviolet?style=for-the-badge&logo=flask)](https://asl-demokritos.superlabs.eu/)
 [![Visit Our Blog](https://img.shields.io/badge/Visit-Blog-orange?style=for-the-badge&logo=substack)](https://superlabseu.substack.com/t/the-lab-fab-project)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/NirDiamantAI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/superlabs-greece/)
 
 The Lab Fab project is an effort between our lab, The Autonomous Science Lab at NCSR Demokritos in Greece and The Center for Bits and Atoms at MIT to create an onlide portal of open designs of modular, low-cost, automation-ready scientrific instrumentation for autonomous science research in the field of sustanainable (bio)materials. 
 
@@ -35,7 +35,7 @@ Support from our sponsors helps make this project possible.<br>
 
   <!-- EU RRF -->
   <td width="600" >
-    <a href="#" title="EU RRF">
+    <a href="https://cba.mit.edu/about/" title="EU RRF">
       <img src="assets/repos_img/sponsors/eurrf-logo.png"
            height="80" style="max-width:1200px;" alt="Greece2.0 logo">
     </a><br>
