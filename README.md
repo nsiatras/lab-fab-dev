@@ -3,6 +3,12 @@
 
 # The Lab Fab Project
 
+## Greece 3.0 / Project Documentation
+
+**EL:** Το υποέργο [Greece 3.0](<Greece 3.0/README.md>) συγκεντρώνει και οργανώνει δημόσια διαθέσιμα έγγραφα για το έργο **«Μεταφραστική Έρευνα σε Τεχνολογίες Βιώσιμων Υλικών (σε συνεργασία με το MIT)» Ε-12575 / ΟΠΣ ΤΑ 5179171**. Περιλαμβάνει συμβάσεις, λογιστικές πράξεις, καταγγελίες, μη επιλέξιμες δαπάνες, πληρωμές και χρονικές επικαλύψεις συμβάσεων, με στόχο να μπορούν άνθρωποι και LLM / βοηθοί AI να κατανοήσουν γρήγορα τη χρονική και οικονομική εικόνα του έργου.
+
+**EN:** The [Greece 3.0](<Greece 3.0/README.md>) subproject collects and organizes publicly available documentation for the project **“Translational Research in Sustainable Materials Technologies (in collaboration with MIT)” E-12575 / OPS TA 5179171**. It includes contracts, accounting records, complaints, non-eligible expenses, payments, and contract timeline overlaps, so that both humans and LLM / AI assistants can quickly understand the project’s timeline and financial context.
+
 ### _Open-source scientific instrumentation design portal <br> for sustainable (bio)materials research_
 
 
